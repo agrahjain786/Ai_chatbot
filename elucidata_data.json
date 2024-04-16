@@ -1,0 +1,1422 @@
+[{
+    "question": "What is the focus of the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course focuses on learning Apache Storm for real-time data analysis, particularly in analyzing real-time tweets."
+},
+{
+    "question": "Who is the provider of the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course is provided by Twitter."
+},
+{
+    "question": "What level of expertise is recommended for the Real-Time Analytics with Apache Storm course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the A/B Testing course?",
+    "answer": "The course focuses on the design and analysis of A/B tests, which are online experiments used to test potential improvements to websites or mobile applications."
+},
+{
+    "question": "Who is the provider of the A/B Testing course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the A/B Testing course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the A/B Testing course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Data Analysis with R course?",
+    "answer": "The course focuses on investigating and summarizing data sets using R, with an emphasis on exploratory data analysis and data visualization."
+},
+{
+    "question": "Who is the provider of the Data Analysis with R course?",
+    "answer": "The course is provided by Facebook."
+},
+{
+    "question": "What level of expertise is recommended for the Data Analysis with R course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Data Analysis with R course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course focuses on knowledge-based artificial intelligence (AI), aiming to build AI agents capable of human-level intelligence and gain insights into human cognition."
+},
+{
+    "question": "Who is the provider of the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course duration is 7 weeks."
+},
+{
+    "question": "What is the focus of the Introduction to TensorFlow Lite course?",
+    "answer": "The course focuses on deploying deep learning models on mobile and embedded devices using TensorFlow Lite."
+},
+{
+    "question": "Who is the provider of the Introduction to TensorFlow Lite course?",
+    "answer": "The course is provided by TensorFlow Lite."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to TensorFlow Lite course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to TensorFlow Lite course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Introduction to Computer Vision course?",
+    "answer": "The course focuses on providing an introduction to computer vision, covering fundamentals, methods for application, and machine learning classification."
+},
+{
+    "question": "Who is the provider of the Introduction to Computer Vision course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to Computer Vision course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to Computer Vision course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course focuses on teaching a practical approach to deep learning for software developers, developed by Google and Udacity."
+},
+{
+    "question": "Who is the provider of the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course is provided by TensorFlow."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to TensorFlow for Deep Learning course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Eigenvectors and Eigenvalues course?",
+    "answer": "The course focuses on teaching how to calculate eigenvalues and eigenvectors and their importance for AI applications."
+},
+{
+    "question": "Who is the provider of the Eigenvectors and Eigenvalues course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Eigenvectors and Eigenvalues course?",
+    "answer": "This course is recommended for beginners."
+},
+{
+    "question": "How long does it take to complete the Eigenvectors and Eigenvalues course?",
+    "answer": "The course duration is 1 week."
+},
+{
+    "question": "What is the focus of the Intro to Artificial Intelligence course?",
+    "answer": "The course focuses on introducing the basics of AI, covering topics such as machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing."
+},
+{
+    "question": "Who is the provider of the Intro to Artificial Intelligence course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Artificial Intelligence course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Artificial Intelligence course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Artificial Intelligence for Robotics course?",
+    "answer": "The course focuses on teaching how to program all the major systems of a robotic car, covering topics such as planning, search, localization, tracking, and control."
+},
+{
+    "question": "Who is the provider of the Artificial Intelligence for Robotics course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Artificial Intelligence for Robotics course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Artificial Intelligence for Robotics course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course focuses on teaching the basics of deep learning and implementing deep neural networks with PyTorch."
+},
+{
+    "question": "Who is the provider of the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course is provided by Facebook AI."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Deep Learning with PyTorch course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "How Many courses are available?",
+    "answer": "The course total number of courses are 100."
+},
+{
+    "question": "Total number of courses available?",
+    "answer": "The course total number of courses are 100."
+},
+
+{
+    "question": "What is the focus of the Linear Algebra Refresher Course?",
+    "answer": "The course focuses on learning linear algebra through practical implementation, where students code their own library of linear algebra functions."
+},
+{
+    "question": "Who is the provider of the Linear Algebra Refresher Course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Linear Algebra Refresher Course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Linear Algebra Refresher Course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Machine Learning: Unsupervised Learning course?",
+    "answer": "The course focuses on understanding unsupervised learning techniques such as randomized optimization, clustering, feature selection, feature transformation, and information theory."
+},
+{
+    "question": "Who is the provider of the Machine Learning: Unsupervised Learning course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Machine Learning: Unsupervised Learning course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Machine Learning: Unsupervised Learning course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Big Data Analytics in Healthcare course?",
+    "answer": "The course focuses on introducing the characteristics of medical data, associated data mining challenges, and various algorithms and systems used in healthcare analytics."
+},
+{
+    "question": "Who is the provider of the Big Data Analytics in Healthcare course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Big Data Analytics in Healthcare course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Big Data Analytics in Healthcare course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the IntelÂ® Edge AI Fundamentals with OpenVINOâ„¢ course?",
+    "answer": "The course focuses on gaining practical skills for deploying edge AI using the Intel Distribution of OpenVINO toolkit, particularly in computer vision applications."
+},
+{
+    "question": "Who is the provider of the IntelÂ® Edge AI Fundamentals with OpenVINOâ„¢ course?",
+    "answer": "The course is provided by Intel."
+},
+{
+    "question": "What level of expertise is recommended for the IntelÂ® Edge AI Fundamentals with OpenVINOâ„¢ course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the IntelÂ® Edge AI Fundamentals with OpenVINOâ„¢ course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Artificial Intelligence course?",
+    "answer": "The course provides a survey of topics in AI along with foundational concepts such as classical search, probability, machine learning, logic, and planning."
+},
+{
+    "question": "Who is the provider of the Artificial Intelligence course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Artificial Intelligence course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Artificial Intelligence course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Secure and Private AI course?",
+    "answer": "The course focuses on extending PyTorch with tools necessary to train AI models that preserve user privacy."
+},
+{
+    "question": "Who is the provider of the Secure and Private AI course?",
+    "answer": "The course is provided by Facebook AI."
+},
+{
+    "question": "What level of expertise is recommended for the Secure and Private AI course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Secure and Private AI course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Model Building and Validation course?",
+    "answer": "The course focuses on understanding and analyzing data, model building, validation techniques, and the QMV (Questioning, Modeling, Validation) process."
+},
+{
+    "question": "Who is the provider of the Model Building and Validation course?",
+    "answer": "The course is provided by AT&T."
+},
+{
+    "question": "What level of expertise is recommended for the Model Building and Validation course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Model Building and Validation course?",
+    "answer": "The course duration is 8 weeks."
+},
+{
+    "question": "What is the focus of the Data Visualization and D3.js course?",
+    "answer": "The course focuses on learning the fundamentals of data visualization and applying design and narrative concepts to create visualizations using d3.js."
+},
+{
+    "question": "Who is the provider of the Data Visualization and D3.js course?",
+    "answer": "The course is provided by Zipfian Academy."
+},
+{
+    "question": "What level of expertise is recommended for the Data Visualization and D3.js course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Data Visualization and D3.js course?",
+    "answer": "The course duration is 7 weeks."
+},
+{
+    "question": "What is the focus of the Machine Learning for Trading course?",
+    "answer": "The course focuses on implementing machine learning-based strategies for making trading decisions using real-world data, covering topics such as pandas, time series analysis, computational investing, algorithmic trading, and reinforcement learning."
+},
+{
+    "question": "Who is the provider of the Machine Learning for Trading course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Machine Learning for Trading course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Machine Learning for Trading course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Machine Learning course?",
+    "answer": "The course focuses on applying supervised, unsupervised, and reinforcement learning techniques for solving a range of data science problems, covering topics such as information theory and game theory."
+},
+{
+    "question": "Who is the provider of the Machine Learning course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Machine Learning course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Machine Learning course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Intro to Hadoop and MapReduce course?",
+    "answer": "The course focuses on learning the fundamentals of MapReduce and Apache Hadoop to analyze big data."
+},
+{
+    "question": "Who is the provider of the Intro to Hadoop and MapReduce course?",
+    "answer": "The course is provided by Cloudera."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Hadoop and MapReduce course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Hadoop and MapReduce course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course focuses on learning Apache Storm for real-time data analysis and visualization, particularly in analyzing real-time tweets."
+},
+{
+    "question": "Who is the provider of the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course is provided by Twitter."
+},
+{
+    "question": "What level of expertise is recommended for the Real-Time Analytics with Apache Storm course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Real-Time Analytics with Apache Storm course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the A/B Testing course?",
+    "answer": "The course focuses on covering the design and analysis of A/B tests, also known as split tests, for testing potential improvements to websites or mobile applications."
+},
+{
+    "question": "Who is the provider of the A/B Testing course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the A/B Testing course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the A/B Testing course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Data Analysis with R course?",
+    "answer": "The course focuses on investigating and summarizing data sets using R, with emphasis on exploratory data analysis and data visualization."
+},
+{
+    "question": "Who is the provider of the Data Analysis with R course?",
+    "answer": "The course is provided by Facebook."
+},
+{
+    "question": "What level of expertise is recommended for the Data Analysis with R course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Data Analysis with R course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course focuses on building AI agents capable of human-level intelligence and gaining insights into human cognition, covering topics such as semantic networks, common-sense reasoning, and visuospatial reasoning."
+},
+{
+    "question": "Who is the provider of the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Knowledge-Based AI: Cognitive Systems course?",
+    "answer": "The course duration is 7 weeks."
+},
+{
+    "question": "What is the focus of the Introduction to TensorFlow Lite course?",
+    "answer": "The course focuses on deploying deep learning models on mobile and embedded devices using TensorFlow Lite, covering topics such as TensorFlow Lite, deep learning models, and deployment on various platforms."
+},
+{
+    "question": "Who is the provider of the Introduction to TensorFlow Lite course?",
+    "answer": "The course is provided by TensorFlow Lite."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to TensorFlow Lite course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to TensorFlow Lite course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Introduction to Computer Vision course?",
+    "answer": "The course provides an introduction to computer vision, covering fundamentals, methods for application, and machine learning classification techniques in the field."
+},
+{
+    "question": "Who is the provider of the Introduction to Computer Vision course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to Computer Vision course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to Computer Vision course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course focuses on teaching a practical approach to deep learning for software developers using TensorFlow, covering topics such as image processing, feature detection, object tracking, and classification."
+},
+{
+    "question": "Who is the provider of the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course is provided by TensorFlow."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to TensorFlow for Deep Learning course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to TensorFlow for Deep Learning course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Eigenvectors and Eigenvalues course?",
+    "answer": "The course focuses on teaching how to calculate eigenvalues and eigenvectors and their importance in AI applications, covering linear algebra concepts."
+},
+{
+    "question": "Who is the provider of the Eigenvectors and Eigenvalues course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Eigenvectors and Eigenvalues course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Eigenvectors and Eigenvalues course?",
+    "answer": "The course duration is 1 week."
+},
+{
+    "question": "What is the focus of the Intro to Artificial Intelligence course?",
+    "answer": "The course introduces the basics of AI, covering topics such as machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing."
+},
+{
+    "question": "Who is the provider of the Intro to Artificial Intelligence course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Artificial Intelligence course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Artificial Intelligence course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Artificial Intelligence for Robotics course?",
+    "answer": "The course focuses on programming major systems of a robotic car, covering topics such as planning, search, localization, tracking, and control."
+},
+{
+    "question": "Who is the provider of the Artificial Intelligence for Robotics course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Artificial Intelligence for Robotics course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Artificial Intelligence for Robotics course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course focuses on teaching the basics of deep learning and implementing deep neural networks using PyTorch."
+},
+{
+    "question": "Who is the provider of the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course is provided by Facebook AI."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Deep Learning with PyTorch course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Deep Learning with PyTorch course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the AWS DeepRacer course?",
+    "answer": "The course focuses on learning the fundamentals of machine learning and reinforcement learning through autonomous driving with AWS DeepRacer."
+},
+{
+    "question": "Who is the provider of the AWS DeepRacer course?",
+    "answer": "The course is provided by AWS DeepRacer."
+},
+{
+    "question": "What level of expertise is recommended for the AWS DeepRacer course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the AWS DeepRacer course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Reinforcement Learning course?",
+    "answer": "The course focuses on engaging with machine learning from a theoretical perspective, exploring automated decision-making, and diving into advanced algorithms."
+},
+{
+    "question": "Who is the provider of the Reinforcement Learning course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Reinforcement Learning course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Reinforcement Learning course?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the focus of the Introduction to Machine Learning Course?",
+    "answer": "The course focuses on teaching the end-to-end process of investigating data through a machine learning lens."
+},
+{
+    "question": "Who is the provider of the Introduction to Machine Learning Course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to Machine Learning Course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to Machine Learning Course?",
+    "answer": "The course duration is 10 weeks."
+},
+{
+    "question": "What is the focus of the Microsoft Power Platform course?",
+    "answer": "The course focuses on teaching efficient low-code solutions for data analytics, app development, and artificial intelligence using Microsoft Power Platform."
+},
+{
+    "question": "Who is the provider of the Microsoft Power Platform course?",
+    "answer": "The course is provided by Microsoft."
+},
+{
+    "question": "What level of expertise is recommended for the Microsoft Power Platform course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Microsoft Power Platform course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Web Tooling & Automation course?",
+    "answer": "The course focuses on setting up development environments and automatic optimization to save time and effort."
+},
+{
+    "question": "Who is the provider of the Web Tooling & Automation course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Web Tooling & Automation course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Web Tooling & Automation course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Front End Frameworks course?",
+    "answer": "The course focuses on building interactive, single-page applications with popular JavaScript frameworks."
+},
+{
+    "question": "Who is the provider of the Front End Frameworks course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Front End Frameworks course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Front End Frameworks course?",
+    "answer": "The course duration is 8 weeks."
+},
+{
+    "question": "What is the focus of the Responsive Web Design Fundamentals course?",
+    "answer": "The course focuses on strategies for developing responsive websites that look great on every device."
+},
+{
+    "question": "Who is the provider of the Responsive Web Design Fundamentals course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Responsive Web Design Fundamentals course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Responsive Web Design Fundamentals course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the How to Install Android Studio course?",
+    "answer": "The course focuses on installing Android Studio on your computer and setting up a new project using the program's Project Wizard."
+},
+{
+    "question": "Who is the provider of the How to Install Android Studio course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the How to Install Android Studio course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the How to Install Android Studio course?",
+    "answer": "The course duration is 1 day."
+},
+{
+    "question": "What is the focus of the Website Performance Optimization course?",
+    "answer": "The course focuses on learning how browsers convert HTML, CSS, and JavaScript into websites and optimizing website speed using Chrome Developer Tools."
+},
+{
+    "question": "Who is the provider of the Website Performance Optimization course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Website Performance Optimization course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Website Performance Optimization course?",
+    "answer": "The course duration is 1 week."
+},
+{
+    "question": "What is the focus of the iOS Networking with Swift course?",
+    "answer": "The course focuses on incorporating networking into iOS apps to access data from around the world, building the On the Map app to share location and links with fellow students."
+},
+{
+    "question": "Who is the provider of the iOS Networking with Swift course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the iOS Networking with Swift course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the iOS Networking with Swift course?",
+    "answer": "The course duration is 3 months."
+},
+{
+    "question": "What is the focus of the JavaScript Design Patterns course?",
+    "answer": "The course focuses on the importance of code organization and how to implement it with vanilla JavaScript or an organizational library or framework."
+},
+{
+    "question": "Who is the provider of the JavaScript Design Patterns course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the JavaScript Design Patterns course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the JavaScript Design Patterns course?",
+    "answer": "The course duration is 6 weeks."
+},
+{
+    "question": "What is the focus of the Android Performance course?",
+    "answer": "The course focuses on identifying and fixing bottlenecks in Android applications to ensure a smooth user experience."
+},
+{
+    "question": "Who is the provider of the Android Performance course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Android Performance course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Android Performance course?",
+    "answer": "The course duration is 4 weeks."
+},
+{
+    "question": "What is the focus of the Responsive Images course?",
+    "answer": "The course focuses on going beyond image tags and making images a part of the responsive design workflow."
+},
+{
+    "question": "Who is the provider of the Responsive Images course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Responsive Images course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Responsive Images course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Xcode Debugging course?",
+    "answer": "The course focuses on standard methodologies for debugging software and using Xcode's debugging tools to find and fix bugs."
+},
+{
+    "question": "Who is the provider of the Xcode Debugging course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Xcode Debugging course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Xcode Debugging course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Build Native Mobile Apps with Flutter course?",
+    "answer": "The course focuses on using Flutter to craft high-quality native interfaces on iOS and Android devices."
+},
+{
+    "question": "Who is the provider of the Build Native Mobile Apps with Flutter course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Build Native Mobile Apps with Flutter course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Build Native Mobile Apps with Flutter course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the JavaScript Promises course?",
+    "answer": "The course focuses on simplifying asynchronous work with native JavaScript promises."
+},
+{
+    "question": "Who is the provider of the JavaScript Promises course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the JavaScript Promises course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the JavaScript Promises course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the UIKit Fundamentals course?",
+    "answer": "The course focuses on teaching the iOS UIKit framework, crucial for creating user interfaces in all iOS apps."
+},
+{
+    "question": "Who is the provider of the UIKit Fundamentals course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the UIKit Fundamentals course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the UIKit Fundamentals course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Client-Server Communication course?",
+    "answer": "The course focuses on how a client communicates with a server, including HTTP's request and response cycle, HTTP/2, and HTTPS."
+},
+{
+    "question": "Who is the provider of the Client-Server Communication course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Client-Server Communication course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Client-Server Communication course?",
+    "answer": "The course duration is 5 weeks."
+},
+{
+    "question": "What is the focus of the What is Programming? course?",
+    "answer": "The course focuses on being the first step towards a career in programming."
+},
+{
+    "question": "Who is the provider of the What is Programming? course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the What is Programming? course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the What is Programming? course?",
+    "answer": "The course duration is 1 day."
+},
+{
+    "question": "What is the focus of the Building High Conversion Web Forms course?",
+    "answer": "The course focuses on increasing conversions with best practices for designing and building web forms for users on any device."
+},
+{
+    "question": "Who is the provider of the Building High Conversion Web Forms course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Building High Conversion Web Forms course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Building High Conversion Web Forms course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Software Architecture & Design course?",
+    "answer": "The course focuses on teaching the principles and concepts involved in the analysis and design of large software systems."
+},
+{
+    "question": "Who is the provider of the Software Architecture & Design course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Software Architecture & Design course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Software Architecture & Design course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Intro to Information Security course?",
+    "answer": "The course focuses on topics such as software security, cryptography, network security, privacy, and public policy."
+},
+{
+    "question": "Who is the provider of the Intro to Information Security course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Information Security course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Information Security course?",
+    "answer": "The course duration is not specified."
+},
+{
+    "question": "What is the focus of the Authentication & Authorization: OAuth course?",
+    "answer": "The course focuses on implementing the OAuth 2.0 framework to allow users to securely and easily log in to web applications."
+},
+{
+    "question": "Who is the provider of the Authentication & Authorization: OAuth course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Authentication & Authorization: OAuth course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Authentication & Authorization: OAuth course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Intro to iOS App Development with Swift course?",
+    "answer": "The course focuses on taking the first step in becoming an iOS Developer by learning about Swift and writing your first app."
+},
+{
+    "question": "Who is the provider of the Intro to iOS App Development with Swift course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to iOS App Development with Swift course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to iOS App Development with Swift course?",
+    "answer": "The course duration is 1 month."
+},
+
+{
+    "question": "What is the focus of the Introduction to Operating Systems course?",
+    "answer": "The course focuses on teaching the basic operating system abstractions, mechanisms, and their implementations."
+},
+{
+    "question": "Who is the provider of the Introduction to Operating Systems course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to Operating Systems course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to Operating Systems course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Web Accessibility course?",
+    "answer": "The course focuses on making web applications accessible, covering topics such as accessibility, screen readers, focus, semantics, and ARIA."
+},
+{
+    "question": "Who is the provider of the Web Accessibility course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Web Accessibility course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Web Accessibility course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Android Basics: Data Storage course?",
+    "answer": "The course focuses on teaching the basics of data storage in Android, including building databases and apps for small businesses."
+},
+{
+    "question": "Who is the provider of the Android Basics: Data Storage course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Android Basics: Data Storage course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Android Basics: Data Storage course?",
+    "answer": "The course duration is 8 weeks."
+},
+{
+    "question": "What is the focus of the Scalable Microservices with Kubernetes course?",
+    "answer": "The course focuses on managing microservices using Kubernetes, covering topics such as microservices, Docker, Kubernetes, and deploying microservices."
+},
+{
+    "question": "Who is the provider of the Scalable Microservices with Kubernetes course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Scalable Microservices with Kubernetes course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Scalable Microservices with Kubernetes course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Developing Android Apps with Kotlin course?",
+    "answer": "The course focuses on teaching the fundamentals of the Kotlin programming language for Android development."
+},
+{
+    "question": "Who is the provider of the Developing Android Apps with Kotlin course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Developing Android Apps with Kotlin course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Developing Android Apps with Kotlin course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Browser Rendering Optimization course?",
+    "answer": "The course focuses on demystifying the browser's rendering pipeline and building high-performance web apps."
+},
+{
+    "question": "Who is the provider of the Browser Rendering Optimization course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Browser Rendering Optimization course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Browser Rendering Optimization course?",
+    "answer": "The course duration is 1 month."
+},
+{
+    "question": "What is the focus of the Learn Swift Programming Syntax course?",
+    "answer": "The course focuses on teaching the syntax of the Swift programming language for building iOS apps."
+},
+{
+    "question": "Who is the provider of the Learn Swift Programming Syntax course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Learn Swift Programming Syntax course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Learn Swift Programming Syntax course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Offline Web Applications course?",
+    "answer": "The course focuses on developing offline-first web applications using Service Workers and IndexedDB."
+},
+{
+    "question": "Who is the provider of the Offline Web Applications course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Offline Web Applications course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Offline Web Applications course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Kotlin for Android Developers course?",
+    "answer": "The course focuses on converting an Android app from Java to Kotlin, learning key features of the Kotlin programming language."
+},
+{
+    "question": "Who is the provider of the Kotlin for Android Developers course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Kotlin for Android Developers course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Kotlin for Android Developers course?",
+    "answer": "The course duration is 1 week."
+},
+{
+    "question": "What is the focus of the UX Design for Mobile Developers course?",
+    "answer": "The course focuses on teaching UX design skills for mobile developers to create 5-star mobile apps."
+},
+{
+    "question": "Who is the provider of the UX Design for Mobile Developers course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the UX Design for Mobile Developers course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the UX Design for Mobile Developers course?",
+    "answer": "The course duration is 6 weeks."
+},
+{
+    "question": "What is the focus of the Software Development Process course?",
+    "answer": "The course focuses on exploring requirements engineering, architecture and design, testing, and software quality."
+},
+{
+    "question": "Who is the provider of the Software Development Process course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Software Development Process course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Software Development Process course?",
+    "answer": "The course duration is 3 months."
+},
+{
+    "question": "What is the focus of the Data Visualization in Tableau course?",
+    "answer": "The course focuses on learning the fundamentals of data visualization and practicing communication with data using Tableau."
+},
+{
+    "question": "Who is the provider of the Data Visualization in Tableau course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Data Visualization in Tableau course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Data Visualization in Tableau course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Intro to Progressive Web Apps course?",
+    "answer": "The course focuses on getting started with building Progressive Web Apps (PWAs), covering topics such as Progressive Web Apps, Service Workers, and offline apps."
+},
+{
+    "question": "Who is the provider of the Intro to Progressive Web Apps course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to Progressive Web Apps course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to Progressive Web Apps course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Writing READMEs course?",
+    "answer": "The course focuses on teaching how to write READMEs using Markdown to make code easier to read and usable by other humans."
+},
+{
+    "question": "Who is the provider of the Writing READMEs course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Writing READMEs course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Writing READMEs course?",
+    "answer": "The course duration is 3 days."
+},
+{
+    "question": "What is the focus of the Software Analysis & Testing course?",
+    "answer": "The course focuses on the theory and practice of software analysis, covering topics such as software testing, debugging, and dataflow analysis."
+},
+{
+    "question": "Who is the provider of the Software Analysis & Testing course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Software Analysis & Testing course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Software Analysis & Testing course?",
+    "answer": "The course duration is 16 weeks."
+},
+{
+    "question": "What is the focus of the iOS Persistence and Core Data course?",
+    "answer": "The course focuses on persisting data for iOS apps using techniques such as NSUserDefaults, Sandbox, and Core Data."
+},
+{
+    "question": "Who is the provider of the iOS Persistence and Core Data course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the iOS Persistence and Core Data course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the iOS Persistence and Core Data course?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the focus of the Computer Networking course?",
+    "answer": "The course focuses on advanced concepts and tools used in the Computer Networking industry, covering topics such as software-defined networking, data center networking, and congestion control."
+},
+{
+    "question": "Who is the provider of the Computer Networking course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Computer Networking course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Computer Networking course?",
+    "answer": "The course duration is 3 months."
+},
+{
+    "question": "What is the focus of the Firebase Analytics: iOS course?",
+    "answer": "The course focuses on using Firebase Analytics to grow an app's user base, covering topics such as Android development, Firebase Analytics, and Firebase Crash Reporting."
+},
+{
+    "question": "Who is the provider of the Firebase Analytics: iOS course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Firebase Analytics: iOS course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Firebase Analytics: iOS course?",
+    "answer": "The course duration is 1 day."
+},
+{
+    "question": "What is the focus of the Human-Computer Interaction course?",
+    "answer": "The course focuses on introducing principles, techniques, and open areas of development in human-computer interaction, covering topics such as design principles, prototyping, and distributed cognition."
+},
+{
+    "question": "Who is the provider of the Human-Computer Interaction course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Human-Computer Interaction course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Human-Computer Interaction course?",
+    "answer": "The course duration is 16 weeks."
+},
+{
+    "question": "What is the focus of the 2D Game Development with libGDX course?",
+    "answer": "The course focuses on using LibGDX to build 2D games that run on various platforms, covering topics such as LibGDX, game development, and 2D."
+},
+{
+    "question": "Who is the provider of the 2D Game Development with libGDX course?",
+    "answer": "The course is provided by Amazon Appstore for Android."
+},
+{
+    "question": "What level of expertise is recommended for the 2D Game Development with libGDX course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the 2D Game Development with libGDX course?",
+    "answer": "The course duration is 8 weeks."
+},
+{
+    "question": "What is the focus of the Intro to jQuery course?",
+    "answer": "The course focuses on accessing and modifying the DOM using jQuery, covering topics such as jQuery, DOM structure, and modifying HTML attributes and content."
+},
+{
+    "question": "Who is the provider of the Intro to jQuery course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Intro to jQuery course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Intro to jQuery course?",
+    "answer": "The course duration is 2 days."
+},
+{
+    "question": "What is the focus of the Cyber-Physical Systems Security course?",
+    "answer": "The course focuses on security issues relating to cyber-physical systems, covering topics such as industrial networks, smart grid infrastructure, and cyber security."
+},
+{
+    "question": "Who is the provider of the Cyber-Physical Systems Security course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Cyber-Physical Systems Security course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Cyber-Physical Systems Security course?",
+    "answer": "The course duration is 16 weeks."
+},
+{
+    "question": "What is the focus of the Introduction to Graduate Algorithms course?",
+    "answer": "The course focuses on advanced techniques for designing algorithms and applying them to hard computational problems."
+},
+{
+    "question": "Who is the provider of the Introduction to Graduate Algorithms course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Introduction to Graduate Algorithms course?",
+    "answer": "This course is recommended for advanced-level learners."
+},
+{
+    "question": "How long does it take to complete the Introduction to Graduate Algorithms course?",
+    "answer": "The course duration is 3 months."
+},
+{
+    "question": "What is the focus of the Dynamic Web Applications with Sinatra course?",
+    "answer": "The course focuses on using Sinatra, a micro-framework for quickly developing small Ruby applications for the web, covering topics such as Ruby, Sinatra, and building web applications."
+},
+{
+    "question": "Who is the provider of the Dynamic Web Applications with Sinatra course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Dynamic Web Applications with Sinatra course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Dynamic Web Applications with Sinatra course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the How to Make a Platformer Using libGDX course?",
+    "answer": "The course focuses on creating a game called Giga Gal using LibGDX, covering topics such as LibGDX, game development, and asset management."
+},
+{
+    "question": "Who is the provider of the How to Make a Platformer Using libGDX course?",
+    "answer": "The course is provided by Amazon Appstore for Android."
+},
+{
+    "question": "What level of expertise is recommended for the How to Make a Platformer Using libGDX course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the How to Make a Platformer Using libGDX course?",
+    "answer": "The course duration is 8 weeks."
+},
+{
+    "question": "What is the focus of the JavaScript Testing course?",
+    "answer": "The course focuses on iterating on web applications with confidence using the red-green-refactor workflow cycle and automated testing frameworks."
+},
+{
+    "question": "Who is the provider of the JavaScript Testing course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the JavaScript Testing course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the JavaScript Testing course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Object-Oriented JavaScript course?",
+    "answer": "The course focuses on teaching Object-Oriented JavaScript, covering topics such as object-oriented programming, data and functionality, and prototypal inheritance."
+},
+{
+    "question": "Who is the provider of the Object-Oriented JavaScript course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Object-Oriented JavaScript course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Object-Oriented JavaScript course?",
+    "answer": "The course duration is 3 weeks."
+},
+{
+    "question": "What is the focus of the Localization Essentials course?",
+    "answer": "The course focuses on localization, adapting a product to a language, culture, and market, covering topics such as localization and Google Translator Toolkit."
+},
+{
+    "question": "Who is the provider of the Localization Essentials course?",
+    "answer": "The course is provided by Google."
+},
+{
+    "question": "What level of expertise is recommended for the Localization Essentials course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the Localization Essentials course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Compilers: Theory and Practice course?",
+    "answer": "The course focuses on teaching the theory and practice behind building compilers for higher level programming languages, covering topics such as compilers, semantic analysis, and control flow analysis."
+},
+{
+    "question": "Who is the provider of the Compilers: Theory and Practice course?",
+    "answer": "The course is provided by the Georgia Institute of Technology."
+},
+{
+    "question": "What level of expertise is recommended for the Compilers: Theory and Practice course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Compilers: Theory and Practice course?",
+    "answer": "The course duration is not specified."
+},
+{
+    "question": "What is the focus of the HTML5 Canvas course?",
+    "answer": "The course focuses on using HTML5 Canvas to create and modify images or interactive animations."
+},
+{
+    "question": "Who is the provider of the HTML5 Canvas course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the HTML5 Canvas course?",
+    "answer": "This course is recommended for beginner-level learners."
+},
+{
+    "question": "How long does it take to complete the HTML5 Canvas course?",
+    "answer": "The course duration is 2 weeks."
+},
+{
+    "question": "What is the focus of the Object Oriented Programming in Java course?",
+    "answer": "The course focuses on applying object-oriented programming concepts in Java."
+},
+{
+    "question": "Who is the provider of the Object Oriented Programming in Java course?",
+    "answer": "The course is provided by Udacity."
+},
+{
+    "question": "What level of expertise is recommended for the Object Oriented Programming in Java course?",
+    "answer": "This course is recommended for intermediate-level learners."
+},
+{
+    "question": "How long does it take to complete the Object Oriented Programming in Java course?",
+    "answer": "The course duration is 4 weeks."
+},
+{
+    "question": "Name all available courses",
+    "answer": "Data Scientist,Product Manager,C,Business Analytics,Data Scientist,Introduction to Programming,Digital Marketing,Front-End Web Developer,Full Stack Web Developer,Android Developer,Machine Learning Engineer,Data Analyst,Data Engineer,Cloud DevOps Engineer,Introduction to Cybersecurity"
+}]
