@@ -4,7 +4,7 @@ from django.contrib import auth
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.models import User
 from django.contrib.auth import logout
-from .models import Chat,FAQ,Doubt,ChatMonitor,feedback
+from .models import Chat,FAQ,Doubt,ChatMonitor,feedback_rating as feedback
 from django.utils import timezone
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -27,7 +27,6 @@ logger = logging.getLogger(__name__)
 
 
 # Create your views here.
-       
 
 
 greeting_responses = ["Hello! Welcome to our ed-tech platform. How can I assist you today?",
@@ -52,13 +51,13 @@ goodbye_responses = ["Thank you for visiting our platform! Have a great day!",
 def submit_feedback(request, user_query):
     if request.method == 'POST':
         rating = int(user_query)
-        new_feedback = Feedback(user=request.user, rating=rating)
+        new_feedback = feedback(user=request.user, rating=rating, message='Feedback', response='feddback')
         new_feedback.save()
         if rating > 3:
-            response = 'Thank you for your feedback. We are glad you liked our service.'
+            reply = 'Thank you for your feedback. We are glad you liked our service.'
         else:
-            response = 'Thank you for your feedback. We will try to improve our service. If anything we can assist you more?.'
-    return response
+            reply = 'Thank you for your feedback. We will try to improve our service. If anything we can assist you more?.'
+    return reply
 
 
 def doubt_assistant(request):
@@ -158,20 +157,31 @@ def home(request):
         chats = Chat.objects.filter(user=request.user)
 
     if request.method == 'POST':
-        start_time = time.time()
-        message = request.POST.get('message')
-        response = generate_response(request, message, FAQ.objects.all())
-        end_time = time.time()
-        response_time = (end_time - start_time)
-        logger.info(f'User input: {message}, Chatbot response: {response}, Response time: {response_time}')
-        
-        if request.user.is_authenticated:
-            chat = Chat(user=request.user, message=message, response=response, created_at=timezone.now())
-            chat.save()
-            chatmonitor = ChatMonitor(user=request.user, message=message, response=response, response_time=response_time, fallback=ai_or_assistant)
-            chatmonitor.save()
+        data_type = request.POST.get('type')
+        print(data_type)
+        if data_type == 'message':
+            start_time = time.time()
+            message = request.POST.get('message')
+            response = generate_response(request, message, FAQ.objects.all())
+            end_time = time.time()
+            response_time = (end_time - start_time)
+            logger.info(f'User input: {message}, Chatbot response: {response}, Response time: {response_time}')
             
-        return JsonResponse({'message': message, 'response': response, 'ai_or_assistant': ai_or_assistant})
+            if request.user.is_authenticated:
+                chat = Chat(user=request.user, message=message, response=response, created_at=timezone.now())
+                chat.save()
+                chatmonitor = ChatMonitor(user=request.user, message=message, response=response, response_time=response_time, fallback=ai_or_assistant)
+                chatmonitor.save()
+                
+            return JsonResponse({'message': message, 'response': response, 'ai_or_assistant': ai_or_assistant})
+        
+        else:
+            print(data_type)
+            rating = request.POST.get('rating')
+            # message = request.POST.get('message')
+            # reply = request.POST.get('response')
+            response = submit_feedback(request, rating)
+            return JsonResponse({'response': response})
     
     if request.user.is_authenticated:
         return render(request, 'ai_chatbot_app/home.html', {'chats': chats})

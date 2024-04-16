@@ -44,8 +44,10 @@ class ChatMonitor(models.Model):
         return f'{self.message}: {self.response_time}'
     
     
-class feedback(models.Model):
+class feedback_rating(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
+    message = models.TextField()
+    response = models.TextField()
     rating = models.IntegerField()
 
     def __str__(self):

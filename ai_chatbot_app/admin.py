@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Chat,FAQ,Doubt,ChatMonitor,feedback
+from .models import Chat,FAQ,Doubt,ChatMonitor,feedback_rating as feedback
 import csv
 from django.http import HttpResponse
 

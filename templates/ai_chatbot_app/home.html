@@ -78,6 +78,7 @@
                 {% else %}
                     <div class="card-header bg-primary text-white" style="overflow: hidden;"><a style="color: yellow; float: right;" href="login/">Login</a> <a style="color: yellow;" href="doubt_assistant_login/">Login as Doubt Assistant</a></div>
                 {% endif %}
+
                 <div class="card-body messages-box">
                     
                     <ul class="list-unstyled messages-list">
@@ -111,7 +112,8 @@
                         {% endfor %}
                     
                     </ul>
-                
+
+                   
                 </div>
                 <br><br>
                 <br><br>
@@ -132,10 +134,12 @@
             const messagesList = document.querySelector('.messages-list');
             const messageForm = document.querySelector('.message-form');
             const messageInput = document.querySelector('.message-input');
+
+            
+            
         
             messageForm.addEventListener('submit', (event) => {
                 event.preventDefault();
-            
                 const message = messageInput.value.trim();
                 if (message.length === 0) {
                     return;
@@ -161,7 +165,8 @@
                     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
                     body: new URLSearchParams({
                     'csrfmiddlewaretoken': document.querySelector('[name=csrfmiddlewaretoken]').value,
-                    'message': message
+                    'message': message,
+                    'type' : 'message'
                     })
                 })
                 .then(response => response.json())
@@ -180,28 +185,50 @@
                         <div class="message-content">
                             ${response}
                         </div>
+                        {% comment %} <div class="message-rating">
+                            <label for="rating">Rate this response:</label>
+                            <select id="rating-select" name="rating">
+                                <option value="">Select...</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                            </select>
+                        </div> {% endcomment %}
                     </div>`;
                     messagesList.appendChild(messageItem);
+                    
                 });
-            });
 
-            document.querySelector('.message-input').addEventListener('keyup', (event)=> {
-                clearTimeout(feedbackTimeout);
-                feedbackTimeout = setTimeout(function() {
-                    const feedbackMessage = 'Please submit the rating from 1 to 5';
-                    const messageItem = document.createElement('li');
-                    messageItem.classList.add('message', 'received');
-                    messageItem.innerHTML = `
-                    <div class="message-text">
-                        <div class="message-sender">
-                            <b>AI Chatbot</b>
-                        </div>
-                        <div class="message-content">
-                            ${feedbackMessage}
-                        </div>
-                    </div>`;
-                    messagesList.appendChild(messageItem);
-                }, 3000); 
+                function submitRating(rating) {
+                    fetch('', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                        body: new URLSearchParams({
+                            'csrfmiddlewaretoken': document.querySelector('[name=csrfmiddlewaretoken]').value,
+                            'type' : 'rating',
+                            'rating' : rating,
+                        })
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        const response = data.response;
+                        const messageItem = document.createElement('li');
+                        messageItem.classList.add('message', 'received');
+                        messageItem.innerHTML = `
+                        <div class="message-text">
+                            <div class="message-sender">
+                                <b> AI Chatbot</b>
+                            </div>
+                            <div class="message-content">
+                                ${response}
+                            </div>
+                        </div>`;
+                        document.querySelector('.messages-list').appendChild(messageItem);
+                    });
+                }
+                
             });
         </script>
     </body>
