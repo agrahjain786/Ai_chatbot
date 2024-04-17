@@ -1419,5 +1419,873 @@
 {
     "question": "Name all available courses",
     "answer": "Data Scientist,Product Manager,C,Business Analytics,Data Scientist,Introduction to Programming,Digital Marketing,Front-End Web Developer,Full Stack Web Developer,Android Developer,Machine Learning Engineer,Data Analyst,Data Engineer,Cloud DevOps Engineer,Introduction to Cybersecurity"
-}
+},
+{
+    "question": "Suitable for beginner or advanced users?",
+    "answer": "Our courses cater to both beginner and advanced users. We offer a range of courses suitable for various skill levels."
+},
+{
+    "question": "Can I learn at my own pace?",
+    "answer": "Yes, you can learn at your own pace. Our courses are designed to be flexible, allowing you to study according to your schedule."
+},
+{
+    "question": "What type of assignment do you give?",
+    "answer": "Assignments vary depending on the course, but typically include quizzes, projects, and practical exercises to reinforce learning."
+},
+{
+    "question": "What are the pre-requirements for this course?",
+    "answer": "Pre-requirements vary depending on the course. Please check the course description for specific requirements."
+},
+{
+    "question": "How long does this course take to complete?",
+    "answer": "The duration of our courses varies. You can find the estimated completion time in the course description."
+},
+{
+    "question": "How much does the course cost?",
+    "answer": "Course prices vary depending on the course. Please check the course page for current pricing information."
+},
+{
+    "question": "How is the doubt support?",
+    "answer": "We offer robust doubt support through various channels such as discussion forums, live chat, and dedicated support staff."
+},
+{
+    "question": "Does this course offer placement opportunities also?",
+    "answer": "Some of our courses offer placement assistance upon completion. Please check the course details for more information."
+},
+{
+    "question": "How is the course different from other platform courses?",
+    "answer": "Our courses are designed by industry experts and updated regularly to ensure relevance and quality. We focus on practical skills and hands-on experience."
+},
+{
+    "question": "Is there any money-back guarantee if I did not like the course?",
+    "answer": "Yes, we offer a money-back guarantee if you are not satisfied with the course. Please refer to our refund policy for details."
+},
+{
+    "question": "Is this course relevant in today's market?",
+    "answer": "Yes, our courses are designed to be relevant and up-to-date with industry trends. We regularly update our content to ensure its relevance."
+},
+{
+    "question": "Is good DSA a prerequisite for this course?",
+    "answer": "Data Structures and Algorithms (DSA) knowledge may be beneficial for some courses, but it is not always a prerequisite. Please check the course description for specific requirements."
+},
+{
+    "question": "How much can I make after completing this course?",
+    "answer": "Earning potential varies depending on various factors such as your skills, experience, and industry demand. Our courses provide you with the skills needed to excel in your chosen field."
+},
+{
+    "question": "Can I pay in EMI for this course?",
+    "answer": "Yes, we offer EMI options for course payments. Please check the payment section during checkout for more details."
+},
+{
+    "question": "Does this course offer financial aid for underprivileged people?",
+    "answer": "Yes, we offer financial aid and scholarships for eligible candidates. Please contact our support team for more information."
+},
+{
+    "question": "Does this course offer any certificate?",
+    "answer": "Yes, upon successful completion of the course, you will receive a certificate of completion to showcase your achievement."
+},
+{
+    "question": "Where can I get testimonials for this course?",
+    "answer": "You can find testimonials from our students on the course page or our website."
+},
+{
+    "question": "Who is the mentor for this course?",
+    "answer": "Our courses are taught by industry experts and experienced professionals with extensive knowledge in their respective fields."
+},
+{
+    "question": "Is it an online or offline course?",
+    "answer": "All our courses are offered online, allowing you to study from anywhere with an internet connection."
+},
+{
+    "question": "What is the title of the course, Data Analyst Nanodegree?",
+    "answer": "The course title is 'Data Analyst Nanodegree.'"
+},
+{
+    "question": "What type of course is Data Analyst Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Data Analyst Nanodegree briefly?",
+    "answer": "Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Data Analyst Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does Data Analyst Nanodegree typically last?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the average rating of Data Analyst Nanodegree?",
+    "answer": "The course has an average rating of 4.6."
+},
+{
+    "question": "How many reviews does Data Analyst Nanodegree have?",
+    "answer": "There are 3496 reviews for the course."
+},
+{
+    "question": "What skills are covered in Data Analyst Nanodegree?",
+    "answer": "The course covers skills such as Data Wrangling, Matplotlib, Bootstrapping, Pandas & NumPy, and Statistics."
+},
+{
+    "question": "What are the prerequisites for Data Analyst Nanodegree?",
+    "answer": "Prerequisites include Python & SQL knowledge."
+},
+{
+    "question": "Are there any affiliated organizations with Data Analyst Nanodegree?",
+    "answer": "Affiliated organizations include Kaggle."
+},
+{
+    "question": "Where can I find more information about Data Analyst Nanodegree?",
+    "answer": "More information about the course can be found at [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)."
+},
+{
+    "question": "What is the title of the course, Deep Learning Nanodegree?",
+    "answer": "The course title is 'Deep Learning Nanodegree.'"
+},
+{
+    "question": "What type of course is Deep Learning Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Deep Learning Nanodegree briefly?",
+    "answer": "Deep learning is driving advances in artificial intelligence that are changing our world—enroll now and learn to build and apply your own deep neural networks."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Deep Learning Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does Deep Learning Nanodegree typically last?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the average rating of Deep Learning Nanodegree?",
+    "answer": "The course has an average rating of 4.7."
+},
+{
+    "question": "How many reviews does Deep Learning Nanodegree have?",
+    "answer": "There are 3368 reviews for the course."
+},
+{
+    "question": "What skills are covered in Deep Learning Nanodegree?",
+    "answer": "The course covers skills such as Neural Networks, Perceptron, Autoencoders, Convolutional Neural Networks, and more."
+},
+{
+    "question": "What are the prerequisites for Deep Learning Nanodegree?",
+    "answer": "Prerequisites include Intermediate Python knowledge."
+},
+{
+    "question": "Are there any affiliated organizations with Deep Learning Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about Deep Learning Nanodegree?",
+    "answer": "More information about the course can be found at [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)."
+},
+{
+    "question": "What is the title of the course, Programming for Data Science with Python Nanodegree?",
+    "answer": "The course title is 'Programming for Data Science with Python Nanodegree.'"
+},
+{
+    "question": "What type of course is Programming for Data Science with Python Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Programming for Data Science with Python Nanodegree briefly?",
+    "answer": "Learn the fundamental programming tools for data professionals: Python, SQL, terminal, and Git."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Programming for Data Science with Python Nanodegree?",
+    "answer": "Participants should be beginners."
+},
+{
+    "question": "How long does Programming for Data Science with Python Nanodegree typically last?",
+    "answer": "The course duration is 3 months."
+},
+{
+    "question": "What is the average rating of Programming for Data Science with Python Nanodegree?",
+    "answer": "The course has an average rating of 4.7."
+},
+{
+    "question": "How many reviews does Programming for Data Science with Python Nanodegree have?",
+    "answer": "There are 1558 reviews for the course."
+},
+{
+    "question": "What skills are covered in Programming for Data Science with Python Nanodegree?",
+    "answer": "The course covers skills such as Python, Numpy & Pandas, SQL, and Git & GitHub."
+},
+{
+    "question": "What are the prerequisites for Programming for Data Science with Python Nanodegree?",
+    "answer": "No specific prerequisites are mentioned."
+},
+{
+    "question": "Are there any affiliated organizations with Programming for Data Science with Python Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about Programming for Data Science with Python Nanodegree?",
+    "answer": "More information about the course can be found at [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)."
+},
+{
+    "question": "What is the title of the course, Full Stack Web Developer Nanodegree?",
+    "answer": "The course title is 'Full Stack Web Developer Nanodegree.'"
+},
+{
+    "question": "What type of course is Full Stack Web Developer Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Full Stack Web Developer Nanodegree briefly?",
+    "answer": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Full Stack Web Developer Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does Full Stack Web Developer Nanodegree typically last?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the average rating of Full Stack Web Developer Nanodegree?",
+    "answer": "The course has an average rating of 4.5."
+},
+{
+    "question": "How many reviews does Full Stack Web Developer Nanodegree have?",
+    "answer": "There are 749 reviews for the course."
+},
+{
+    "question": "What skills are covered in Full Stack Web Developer Nanodegree?",
+    "answer": "The course covers skills such as Python, JavaScript, PostgreSQL, Flask, Docker, and Kubernetes."
+},
+{
+    "question": "What are the prerequisites for Full Stack Web Developer Nanodegree?",
+    "answer": "Prerequisites include prior experience with Python, CSS/HTML, and Git."
+},
+{
+    "question": "Are there any affiliated organizations with Full Stack Web Developer Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about Full Stack Web Developer Nanodegree?",
+    "answer": "More information about the course can be found at [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)."
+},
+{
+    "question": "What is the title of the course, AWS Machine Learning Engineer Nanodegree?",
+    "answer": "The course title is 'AWS Machine Learning Engineer Nanodegree.'"
+},
+{
+    "question": "What type of course is AWS Machine Learning Engineer Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of AWS Machine Learning Engineer Nanodegree briefly?",
+    "answer": "Learn the data science and machine learning skills required to build and deploy machine learning models in production using Amazon SageMaker."
+},
+{
+    "question": "What level of proficiency is recommended for participants in AWS Machine Learning Engineer Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does AWS Machine Learning Engineer Nanodegree typically last?",
+    "answer": "The course duration is 5 months."
+},
+{
+    "question": "What is the average rating of AWS Machine Learning Engineer Nanodegree?",
+    "answer": "The course has an average rating of 4.7."
+},
+{
+    "question": "How many reviews does AWS Machine Learning Engineer Nanodegree have?",
+    "answer": "There are 143 reviews for the course."
+},
+{
+    "question": "What skills are covered in AWS Machine Learning Engineer Nanodegree?",
+    "answer": "The course covers skills such as Feature Engineering, Machine Learning Fluency, Data Loading with SageMaker, and more."
+},
+{
+    "question": "What are the prerequisites for AWS Machine Learning Engineer Nanodegree?",
+    "answer": "Prerequisites include basic knowledge of machine learning algorithms and Python programming."
+},
+{
+    "question": "Are there any affiliated organizations with AWS Machine Learning Engineer Nanodegree?",
+    "answer": "Affiliated organizations include AWS."
+},
+{
+    "question": "Where can I find more information about AWS Machine Learning Engineer Nanodegree?",
+    "answer": "More information about the course can be found at [AWS Machine Learning Engineer Nanodegree](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)."
+},
+{
+    "question": "What is the title of the course, SQL Nanodegree?",
+    "answer": "The course title is 'SQL Nanodegree.'"
+},
+{
+    "question": "What type of course is SQL Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of SQL Nanodegree briefly?",
+    "answer": "Master SQL, the core language for big data analysis, to enable insight-driven decision-making and strategy."
+},
+{
+    "question": "What level of proficiency is recommended for participants in SQL Nanodegree?",
+    "answer": "Participants should be beginners."
+},
+{
+    "question": "How long does SQL Nanodegree typically last?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the average rating of SQL Nanodegree?",
+    "answer": "The course has an average rating of 4.6."
+},
+{
+    "question": "How many reviews does SQL Nanodegree have?",
+    "answer": "There are 339 reviews for the course."
+},
+{
+    "question": "What skills are covered in SQL Nanodegree?",
+    "answer": "The course covers skills such as SQL, PostgreSQL, JOINs, Subqueries, and more."
+},
+{
+    "question": "What are the prerequisites for SQL Nanodegree?",
+    "answer": "Prerequisites include a basic understanding of data types."
+},
+{
+    "question": "Are there any affiliated organizations with SQL Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about SQL Nanodegree?",
+    "answer": "More information about the course can be found at [SQL Nanodegree](https://www.udacity.com/course/learn-sql--nd072)."
+},
+{
+    "question": "What is the title of the course, Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "The course title is 'Machine Learning DevOps Engineer Nanodegree.'"
+},
+{
+    "question": "What type of course is Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Machine Learning DevOps Engineer Nanodegree briefly?",
+    "answer": "Gain the DevOps skills required to automate the various aspects and stages of building and monitoring machine learning models."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "Participants should have prior experience with Python and Machine Learning."
+},
+{
+    "question": "How long does Machine Learning DevOps Engineer Nanodegree typically last?",
+    "answer": "The course duration is 4 months."
+},
+{
+    "question": "What is the average rating of Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "The course has an average rating of 4.6."
+},
+{
+    "question": "How many reviews does Machine Learning DevOps Engineer Nanodegree have?",
+    "answer": "There are 115 reviews for the course."
+},
+{
+    "question": "What skills are covered in Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "The course covers skills such as API development, Automated model scoring, CI/CD, and more."
+},
+{
+    "question": "What are the prerequisites for Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "Prerequisites include prior experience with Python and Machine Learning."
+},
+{
+    "question": "Are there any affiliated organizations with Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about Machine Learning DevOps Engineer Nanodegree?",
+    "answer": "More information about the course can be found at [Machine Learning DevOps Engineer Nanodegree](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)."
+},
+{
+    "question": "What is the title of the course, Artificial Intelligence for Trading Nanodegree?",
+    "answer": "The course title is 'Artificial Intelligence for Trading Nanodegree.'"
+},
+{
+    "question": "What type of course is Artificial Intelligence for Trading Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Artificial Intelligence for Trading Nanodegree briefly?",
+    "answer": "Complete real-world projects designed by industry experts, covering topics from asset management to trading signal generation. Master AI algorithms for trading, and build your career-ready portfolio."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Artificial Intelligence for Trading Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does Artificial Intelligence for Trading Nanodegree typically last?",
+    "answer": "The course duration is 6 months."
+},
+{
+    "question": "What is the average rating of Artificial Intelligence for Trading Nanodegree?",
+    "answer": "The course has an average rating of 4.6."
+},
+{
+    "question": "How many reviews does Artificial Intelligence for Trading Nanodegree have?",
+    "answer": "There are 789 reviews for the course."
+},
+{
+    "question": "What skills are covered in Artificial Intelligence for Trading Nanodegree?",
+    "answer": "The course covers skills such as Momentum Trading Strategy, Smart Beta, Alpha Factors, and more."
+},
+{
+    "question": "What are the prerequisites for Artificial Intelligence for Trading Nanodegree?",
+    "answer": "Prerequisites include Python & Mathematics knowledge."
+},
+{
+    "question": "Are there any affiliated organizations with Artificial Intelligence for Trading Nanodegree?",
+    "answer": "Affiliated organizations include WorldQuant."
+},
+{
+    "question": "Where can I find more information about Artificial Intelligence for Trading Nanodegree?",
+    "answer": "More information about the course can be found at [Artificial Intelligence for Trading Nanodegree](https://www.udacity.com/course/ai-for-trading--nd880)."
+},
+{
+    "question": "What is the title of the course, React Nanodegree?",
+    "answer": "The course title is 'React Nanodegree.'"
+},
+{
+    "question": "What type of course is React Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of React Nanodegree briefly?",
+    "answer": "Learn to build declarative user interfaces for the web with React as well as manage state more predictably in your applications with Redux."
+},
+{
+    "question": "What level of proficiency is recommended for participants in React Nanodegree?",
+    "answer": "Participants should have an intermediate level of proficiency."
+},
+{
+    "question": "How long does React Nanodegree typically last?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the average rating of React Nanodegree?",
+    "answer": "The course has an average rating of 4.7."
+},
+{
+    "question": "How many reviews does React Nanodegree have?",
+    "answer": "There are 1269 reviews for the course."
+},
+{
+    "question": "What skills are covered in React Nanodegree?",
+    "answer": "The course covers skills such as React Component State, React Router, React Hooks, and more."
+},
+{
+    "question": "What are the prerequisites for React Nanodegree?",
+    "answer": "Prerequisites include HTML & CSS, JavaScript, Asynchronous JavaScript (AJAX), and Web forms."
+},
+{
+    "question": "Are there any affiliated organizations with React Nanodegree?",
+    "answer": "Affiliated organizations are not specified."
+},
+{
+    "question": "Where can I find more information about React Nanodegree?",
+    "answer": "More information about the course can be found at [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)."
+},
+{
+    "question": "What is the title of the course, Self-Driving Car Engineer Nanodegree?",
+    "answer": "The course title is 'Self-Driving Car Engineer Nanodegree.'"
+},
+{
+    "question": "What type of course is Self-Driving Car Engineer Nanodegree?",
+    "answer": "It is a Nanodegree program."
+},
+{
+    "question": "Can you describe the course content of Self-Driving Car Engineer Nanodegree briefly?",
+    "answer": "Learn the techniques that power self-driving cars across the full stack of a vehicle’s autonomous capabilities."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Self-Driving Car Engineer Nanodegree?",
+    "answer": "Participants should have an advanced level of proficiency."
+},
+{
+    "question": "How long does Self-Driving Car Engineer Nanodegree typically last?",
+    "answer": "The course duration is 5 months."
+},
+{
+    "question": "What is the average rating of Self-Driving Car Engineer Nanodegree?",
+    "answer": "The average rating is not specified."
+},
+{
+    "question": "How many reviews does Self-Driving Car Engineer Nanodegree have?",
+    "answer": "There are no reviews specified."
+},
+{
+    "question": "What skills are covered in Self-Driving Car Engineer Nanodegree?",
+    "answer": "The course covers skills such as Computer Vision, Deep Learning, Sensor Fusion, and more."
+},
+{
+    "question": "What are the prerequisites for Self-Driving Car Engineer Nanodegree?",
+    "answer": "Prerequisites include Python, C++, Linear Algebra, and Calculus."
+},
+{
+    "question": "Are there any affiliated organizations with Self-Driving Car Engineer Nanodegree?",
+    "answer": "Affiliated organizations include Waymo and Mercedes-Benz."
+},
+{
+    "question": "Where can I find more information about Self-Driving Car Engineer Nanodegree?",
+    "answer": "More information about the course can be found at [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013)."
+},
+{
+    "question": "What is the title of the course, Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "The course title is 'Introduction to Machine Learning using Microsoft Azure.'"
+},
+{
+    "question": "What type of course is Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "It is a free course."
+},
+{
+    "question": "Can you describe the course content of Introduction to Machine Learning using Microsoft Azure briefly?",
+    "answer": "Gain a high-level introduction to the field of machine learning and prepare to use Azure Machine Learning Studio to train machine learning models."
+},
+{
+    "question": "What level of proficiency is recommended for participants in Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "Proficiency level is intermediate."
+},
+{
+    "question": "How long does Introduction to Machine Learning using Microsoft Azure typically last?",
+    "answer": "The course duration is 2 months."
+},
+{
+    "question": "What is the average rating of Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "The average rating is not specified since it's a free course."
+},
+{
+    "question": "How many reviews does Introduction to Machine Learning using Microsoft Azure have?",
+    "answer": "There are no reviews specified since it's a free course."
+},
+{
+    "question": "What skills are covered in Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "The course covers skills such as Machine Learning, Azure, Model Training, and more."
+},
+{
+    "question": "What are the prerequisites for Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "Prerequisites are not specified since it's a free course."
+},
+{
+    "question": "Are there any affiliated organizations with Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "Affiliated organzations are not specified."
+},
+{
+    "question": "Where can I find more information about Introduction to Machine Learning using Microsoft Azure?",
+    "answer": "More information about the course can be found at [Introduction to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333)."
+},
+    {
+        "question": "What is the title of the course, Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "The course title is 'Introduction to Machine Learning using Microsoft Azure.'"
+    },
+    {
+        "question": "What type of course is Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Introduction to Machine Learning using Microsoft Azure briefly?",
+        "answer": "Gain a high-level introduction to the field of machine learning and prepare to use Azure Machine Learning Studio to train machine learning models."
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Introduction to Machine Learning using Microsoft Azure typically last?",
+        "answer": "The course duration is 2 months."
+    },
+    {
+        "question": "What is the average rating of Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Introduction to Machine Learning using Microsoft Azure have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "The course covers skills such as Machine Learning, Azure, Model Training, and more."
+    },
+    {
+        "question": "What are the prerequisites for Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Introduction to Machine Learning using Microsoft Azure?",
+        "answer": "More information about the course can be found at [Introduction to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333)."
+    },
+    {
+        "question": "What is the title of the course, AI Fundamentals?",
+        "answer": "The course title is 'AI Fundamentals.'"
+    },
+    {
+        "question": "What type of course is AI Fundamentals?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of AI Fundamentals briefly?",
+        "answer": "AI Fundamentals is an entry point into the world of AI using Microsoft's cloud-based solutions, such as Azure Machine Learning and Azure Cognitive Services."
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in AI Fundamentals?",
+        "answer": "Proficiency level is beginner."
+    },
+    {
+        "question": "How long does AI Fundamentals typically last?",
+        "answer": "The course duration is 1 month."
+    },
+    {
+        "question": "What is the average rating of AI Fundamentals?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does AI Fundamentals have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in AI Fundamentals?",
+        "answer": "The course covers skills such as Artificial Intelligence, Machine Learning, Azure, and more."
+    },
+    {
+        "question": "What are the prerequisites for AI Fundamentals?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with AI Fundamentals?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about AI Fundamentals?",
+        "answer": "More information about the course can be found at [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)."
+    },
+    {
+        "question": "What is the title of the course, Linear Algebra Refresher Course?",
+        "answer": "The course title is 'Linear Algebra Refresher Course.'"
+    },
+    {
+        "question": "What type of course is Linear Algebra Refresher Course?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Linear Algebra Refresher Course briefly?",
+        "answer": "Learn linear algebra by doing: you will code your own library of linear algebra functions!"
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Linear Algebra Refresher Course?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Linear Algebra Refresher Course typically last?",
+        "answer": "The course duration is 4 months."
+    },
+    {
+        "question": "What is the average rating of Linear Algebra Refresher Course?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Linear Algebra Refresher Course have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Linear Algebra Refresher Course?",
+        "answer": "The course covers skills such as Algebra, Python, Vectors, and more."
+    },
+    {
+        "question": "What are the prerequisites for Linear Algebra Refresher Course?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Linear Algebra Refresher Course?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Linear Algebra Refresher Course?",
+        "answer": "More information about the course can be found at [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)."
+    },
+    {
+        "question": "What is the title of the course, Machine Learning: Unsupervised Learning?",
+        "answer": "The course title is 'Machine Learning: Unsupervised Learning.'"
+    },
+    {
+        "question": "What type of course is Machine Learning: Unsupervised Learning?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Machine Learning: Unsupervised Learning briefly?",
+        "answer": "Ever wonder how Netflix can predict what movies you'll like? Or how Amazon knows what you want to buy before you do? The answer can be found in Unsupervised Learning!"
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Machine Learning: Unsupervised Learning?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Machine Learning: Unsupervised Learning typically last?",
+        "answer": "The course duration is 1 month."
+    },
+    {
+        "question": "What is the average rating of Machine Learning: Unsupervised Learning?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Machine Learning: Unsupervised Learning have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Machine Learning: Unsupervised Learning?",
+        "answer": "The course covers skills such as Randomized Optimization, Clustering, Feature Selection, and more."
+    },
+    {
+        "question": "What are the prerequisites for Machine Learning: Unsupervised Learning?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Machine Learning: Unsupervised Learning?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Machine Learning: Unsupervised Learning?",
+        "answer": "More information about the course can be found at [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)."
+    },
+    {
+        "question": "What is the title of the course, Big Data Analytics in Healthcare?",
+        "answer": "The course title is 'Big Data Analytics in Healthcare.'"
+    },
+    {
+        "question": "What type of course is Big Data Analytics in Healthcare?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Big Data Analytics in Healthcare briefly?",
+        "answer": "In this course, we introduce the characteristics of medical data and associated data mining challenges on dealing with such data. We cover various algorithms and systems."
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Big Data Analytics in Healthcare?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Big Data Analytics in Healthcare typically last?",
+        "answer": "The course duration is 2 months."
+    },
+    {
+        "question": "What is the average rating of Big Data Analytics in Healthcare?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Big Data Analytics in Healthcare have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Big Data Analytics in Healthcare?",
+        "answer": "The course covers skills such as Data Analytics, Health Care Applications, Algorithms, and more."
+    },
+    {
+        "question": "What are the prerequisites for Big Data Analytics in Healthcare?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Big Data Analytics in Healthcare?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Big Data Analytics in Healthcare?",
+        "answer": "More information about the course can be found at [Big Data Analytics in Healthcare](https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)."
+    },
+    {
+        "question": "What is the title of the course, Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "The course title is 'Intel® Edge AI Fundamentals with OpenVINO™.'"
+    },
+    {
+        "question": "What type of course is Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Intel® Edge AI Fundamentals with OpenVINO™ briefly?",
+        "answer": "Stay at the cutting-edge of AI technology by gaining practical skills for deploying edge AI. Learn how to use the Intel Distribution of OpenVINO toolkit to deploy computer vision capabilities inside a range of edge applications."
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Intel® Edge AI Fundamentals with OpenVINO™ typically last?",
+        "answer": "The course duration is 1 month."
+    },
+    {
+        "question": "What is the average rating of Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Intel® Edge AI Fundamentals with OpenVINO™ have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "The course covers skills such as Edge AI, Intel OpenVINO, Computer Vision, and more."
+    },
+    {
+        "question": "What are the prerequisites for Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Intel® Edge AI Fundamentals with OpenVINO™?",
+        "answer": "More information about the course can be found at [Intel® Edge AI Fundamentals with OpenVINO™](https://www.udacity.com/course/intel-edge-AI-fundamentals-with-openvino--ud132)."
+    },
+    {
+        "question": "What is the title of the course, Artificial Intelligence?",
+        "answer": "The course title is 'Artificial Intelligence.'"
+    },
+    {
+        "question": "What type of course is Artificial Intelligence?",
+        "answer": "It is a free course."
+    },
+    {
+        "question": "Can you describe the course content of Artificial Intelligence briefly?",
+        "answer": "This course gives a survey of topics in AI along with in-depth foundational concepts such as classical search, probability, machine learning, logic, and planning."
+    },
+    {
+        "question": "What level of proficiency is recommended for participants in Artificial Intelligence?",
+        "answer": "Proficiency level is intermediate."
+    },
+    {
+        "question": "How long does Artificial Intelligence typically last?",
+        "answer": "The course duration is 4 months."
+    },
+    {
+        "question": "What is the average rating of Artificial Intelligence?",
+        "answer": "The average rating is not specified since it's a free course."
+    },
+    {
+        "question": "How many reviews does Artificial Intelligence have?",
+        "answer": "There are no reviews specified since it's a free course."
+    },
+    {
+        "question": "What skills are covered in Artificial Intelligence?",
+        "answer": "The course covers skills such as Artificial Intelligence, Probability, Bayesian Networks, Logic and Planning, Machine Learning, and more."
+    },
+    {
+        "question": "What are the prerequisites for Artificial Intelligence?",
+        "answer": "Prerequisites are not specified since it's a free course."
+    },
+    {
+        "question": "Are there any affiliated organizations with Artificial Intelligence?",
+        "answer": "Affiliated organizations are not specified."
+    },
+    {
+        "question": "Where can I find more information about Artificial Intelligence?",
+        "answer": "More information about the course can be found at [Artificial Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954)."
+    }
 ]

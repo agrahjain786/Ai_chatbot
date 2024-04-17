@@ -33,10 +33,6 @@ greeting_responses = ["Hello! Welcome to our ed-tech platform. How can I assist 
                       "Hi there! How can I help you with your course purchase?",
                       "Welcome! How can I assist you in finding the perfect course?"]
 
-payment_responses = ["We offer secure payment options. How can I assist you with the payment process?",
-                     "Our payment process is safe and simple. How can I help you with payment?",
-                     "Don't worry, our payment process is secure. How can I assist you with payment?"]
-
 normal_responses = ["Anything i call help you with?"]
 
 help_responses = ["How can I assist you today?",
@@ -123,8 +119,6 @@ def generate_response(request, user_query, all_faqs):
         return random.choice(greeting_responses)
     elif any(payment in query for payment in ["yes","okay", "ok"]):
         return random.choice(normal_responses)
-    elif any(payment in query for payment in ["payment", "pay"]):
-        return random.choice(payment_responses)
     elif any(help_word in query for help_word in ["help", "assist", "support"]):
         return random.choice(help_responses)
     elif any(goodbye_word in query for goodbye_word in ["bye", "goodbye","exit","quit"]):
