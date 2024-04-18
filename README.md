@@ -72,7 +72,7 @@ Download the Chat Database which contains all the history of all users in the fo
 <br>
 
 ### Performance Monitoring:-
-Implement monitors to track the efficiency and effectiveness of the chat bot like total time taken by the response to be generated, fallback rates, number of times a query is asked in the conversation, feedback of each responses. This data is also downloaded by the Admin only and the Authorised People which Admins allows in the form of CSV file. 
+Implement monitors to track the efficiency and effectiveness of the chat bot like total time taken by the chatbot to generate the response, fallback rates, number of times a query is asked in the conversation, feedback of each responses. This data is also downloaded by the Admin only and the Authorised People which Admins allows in the form of CSV file. 
 
 <img width="1440" alt="Screenshot 2024-04-17 at 2 32 48 PM" src="https://github.com/agrahjain786/Ai_chatbot/assets/131575356/a7f293cc-3a08-4c66-9643-3e4a14138046"><br>
 
