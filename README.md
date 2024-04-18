@@ -1,6 +1,6 @@
  
 # Ai_chatbot
- Create an AI chat bot to answer the query of the users coming to purchase courses on any ed-tech website.
+ Created an AI chat bot that answer the query of the users coming to purchase courses on any ed-tech website.
 
  
 <img width="1440" alt="Screenshot 2024-04-17 at 2 07 59 PM" src="https://github.com/agrahjain786/Ai_chatbot/assets/131575356/a0619983-b59a-4d9d-abf4-26a827c9b546">
